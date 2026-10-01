@@ -1,3 +1,4 @@
-asd = 12
+asd = 2
 
+print(asd)
 print(asd)
