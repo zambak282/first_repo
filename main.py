@@ -1,4 +1,5 @@
-asd = 2
+asd = 3
 
+print(asd)
 print(asd)
 print(asd)
